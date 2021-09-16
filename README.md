@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Neha Niharika Kar, a CSE undergrad
 - 👀 I’m interested in Python and its domains 
-- 🌱 I’m currently learning Data Science 
-- 💞️ I'm also eager to learn Machine Learning and Deep Learning
+- 🌱 I’m currently into DS and AI
+- 💞️ I'm open to learning and internship opportunities
 
 <!---
 Neha-Niharika-Kar/Neha-Niharika-Kar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
