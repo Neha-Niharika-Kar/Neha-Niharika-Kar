@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neha Niharika Kar, a CSE undergrad
 - 👀 I’m interested in Python and its domains 
-- 🌱 I’m currently into DS and AI
+- 🌱 I’m currently into ML and AI
 - 💞️ I'm open to learning and internship opportunities
 
 <!---
