@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Neha Niharika Kar, a CSE undergrad
+- 👋 Hi, I’m Neha Niharika Kar, CS Graduate, currently pursuing M.Tech. in IT at NIT Raipur
 - 👀 I’m interested in Python and its domains 
-- 🌱 I’m currently into ML and AI
+- 🌱 I’m into ML and Data Science
 - 💞️ I'm open to learning and internship opportunities
 
 <!---
