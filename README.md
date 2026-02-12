@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Neha Niharika Kar, currently pursuing M.Tech. in IT at NIT Raipur
+- 👋 Hi, I’m Neha Niharika Kar, currently pursuing M.Tech. in Information Technology at NIT Raipur.
 - 👀 I’m now working as a Software Developer Intern at International Business Machines (IBM).
 - 🌱 I’m interested in software development, data analytics, machine learning and artificial intelligence.
 
