@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Neha Niharika Kar, CS Graduate, currently pursuing M.Tech. in IT at NIT Raipur
-- 👀 I’m interested in Python and its domains 
-- 🌱 I’m into ML and Data Science
-- 💞️ I'm open to learning and internship opportunities
+- 👋 Hi, I’m Neha Niharika Kar, currently pursuing M.Tech. in IT at NIT Raipur
+- 👀 I’m now working as a Software Developer Intern at International Business Machines (IBM).
+- 🌱 I’m interested in software development, data analytics, machine learning and artificial intelligence.
 
 <!---
 Neha-Niharika-Kar/Neha-Niharika-Kar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
